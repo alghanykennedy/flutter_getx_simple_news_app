@@ -2,7 +2,7 @@
 
 Learn about flutter GetX fetching data from api or call api using http get request.
 
-*Source API:**
+**Source API:**
 
 - newsapi: [link](https://newsapi.org/)
 
